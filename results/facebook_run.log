@@ -1,0 +1,15 @@
+processing general graphs
+|E| = 88234
+counted edges = 88234
+nodes=4039
+
+=== Global Metrics on Facebook ===
+
+Algorithm   MAE       RMSE      Acc@4     MeanFactor    P80       P95       Time(s)   
+--------------------------------------------------------------------------------------
+kcoreH      4.9589    6.7960    88.04     1.9289        2.0000    6.0000    0.0056    
+kcored      13.3729   21.8490   83.56     1.9698        2.5000    3.0000    0.1350    
+kcoreHT     5.6202    7.8292    91.78     1.6179        1.6667    3.6667    0.0128    
+kcoreHA     3.2964    4.9935    95.59     1.2460        1.3077    2.0000    0.0104    
+
+Saved metrics to results/facebook_metrics.csv

@@ -1,4 +1,4 @@
-# Anonymous LEDP Coreness Estimation
+# Anonymous Minimal Replica for Coreness Estimation
 
 This directory is a minimal anonymous package for reproducing the core implementation used in our coreness experiments.
 
